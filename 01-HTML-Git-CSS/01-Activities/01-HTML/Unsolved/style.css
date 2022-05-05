@@ -1,0 +1,18 @@
+#image{
+    border-top-left-radius: 20px ;
+    border-bottom-right-radius: 20px;
+    height: 200px;
+    weight: 200px;
+}
+main{
+    background-color: rgb(255, 227, 149);
+}
+#Email{
+    background-color:rgb(216, 181, 116);
+}
+#Github{
+    background-color: rgb(197, 191, 191);
+}
+#Portfolio{
+    background-color: orange;
+}
