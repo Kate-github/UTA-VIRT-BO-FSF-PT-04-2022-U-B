@@ -4,6 +4,9 @@
     height: 200px;
     weight: 200px;
 }
+.headers{
+    color: blue;
+}
 main{
     background-color: rgb(255, 227, 149);
 }

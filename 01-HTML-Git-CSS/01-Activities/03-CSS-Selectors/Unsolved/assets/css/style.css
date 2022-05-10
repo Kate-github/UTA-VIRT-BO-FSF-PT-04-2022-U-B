@@ -1,13 +1,16 @@
-/* TODO: Label selector type */
+/*sets the font family for every elements. It will look for the installed fonts in 
+the order from left to right specified by this rule. */
 * {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   }
 
-/* TODO: Label selector type */
+
+/* sets the background color of the body to lemonchiffon color.*/
 body {
   background-color: lemonchiffon;
 }
 
+/* sets the style for both header and footer elements*/
 header,
 footer {
   width: 100%;
@@ -16,13 +19,13 @@ footer {
   color: #f0ead6;
   background-color: #191970;
 }
-
+/*sets the style for figure element*/
 figure {
   width: 200px;
   background-color: #f0ead6;
 }
 
-/* TODO: Label selector type */
+/* sets the boldness for paragraphed that is selected as class "highlighted text" */
 .highlighted-text {
   font-weight: bolder;
 }
